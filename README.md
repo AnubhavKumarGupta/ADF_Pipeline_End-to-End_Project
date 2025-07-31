@@ -42,7 +42,7 @@
 <img width="1920" height="871" alt="image" src="https://github.com/user-attachments/assets/cd75215b-13aa-4b29-9287-183b38473fbc" />
 
 # Silver Layer
-<img width="1920" height="881" alt="image" src="https://github.com/user-attachments/assets/807b8ed6-3b4e-48eb-b83c-d2e2149eb49f" />
+<img width="1920" height="893" alt="image" src="https://github.com/user-attachments/assets/08d50250-7bc1-4178-a1cb-3c9970fa5980" />
 
 # SQL to Datalake
 <img width="1917" height="888" alt="image" src="https://github.com/user-attachments/assets/62a65807-aa6d-4ae6-8cd9-91ca2fe9e78a" />
