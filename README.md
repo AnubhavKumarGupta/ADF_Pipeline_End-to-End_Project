@@ -32,3 +32,24 @@
 # API Ingestion
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3cfdef5-a509-46bb-a18e-46691b428e50" />
 
+# Gold layer 
+<img width="1918" height="1080" alt="image" src="https://github.com/user-attachments/assets/f02fcc76-d50b-4959-b460-1107003ce7cd" />
+
+# OnPrem Ingestion
+<img width="1920" height="855" alt="image" src="https://github.com/user-attachments/assets/15e6192f-f718-44d9-852b-464fe1ebf354" />
+
+# Parent Pipeline
+<img width="1920" height="871" alt="image" src="https://github.com/user-attachments/assets/cd75215b-13aa-4b29-9287-183b38473fbc" />
+
+# Silver Layer
+<img width="1920" height="881" alt="image" src="https://github.com/user-attachments/assets/807b8ed6-3b4e-48eb-b83c-d2e2149eb49f" />
+
+# SQL to Datalake
+<img width="1917" height="888" alt="image" src="https://github.com/user-attachments/assets/62a65807-aa6d-4ae6-8cd9-91ca2fe9e78a" />
+
+# Data Transformation
+<img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/c10ccce0-8ae1-4f68-8b50-454289f0d8e0" />
+
+# Data Serving
+<img width="1920" height="797" alt="image" src="https://github.com/user-attachments/assets/81ef1585-a11c-49c3-9a95-62c76d478853" />
+
