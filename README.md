@@ -26,3 +26,9 @@
 <img width="1920" height="633" alt="image" src="https://github.com/user-attachments/assets/0e39706a-edd1-4460-8c4d-577164b8d0a7" />
 
 
+# ADF
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21e9e0e6-8f69-43de-af47-364365feae1f" />
+
+# API Ingestion
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3cfdef5-a509-46bb-a18e-46691b428e50" />
+
