@@ -1,5 +1,7 @@
 # ADF_Pipeline_End-to-End_Project
 
+# Architecture 
+<img width="1008" height="557" alt="Flow (1)" src="https://github.com/user-attachments/assets/220affb8-402a-43ef-be5c-a01fbc734e47" />
 
 # Resource Group
 <img width="1920" height="842" alt="image" src="https://github.com/user-attachments/assets/7b2d2f9e-a565-4452-88e2-6c12984ae496" />
