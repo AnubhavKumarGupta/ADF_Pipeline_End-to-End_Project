@@ -1,7 +1,23 @@
-# ADF_Pipeline_End-to-End_Project
+# 🚀 Azure Data Factory - End-to-End Data Pipeline Project
+
+- This project showcases an **End-to-End Data Engineering Pipeline** built on **Azure Data Factory**, designed to move, transform, and serve data using the **Medallion Architecture (Bronze, Silver, Gold)**.
+- It integrates various data sources including **On-Prem files**, **REST APIs**, and **Azure SQL Database**, and processes them into structured, analytics-ready layers.
+
+---
+
+## 📌 Key Features
+
+- ⛓ Ingested data from **3 sources**: On-Prem CSV, REST API (GitHub), and Azure SQL DB
+- 🔁 Built **dynamic pipelines** using **ForEach**, expressions, and parameters
+- 📥 Implemented **Incremental Load** from SQL DB using a **JSON-based watermark file**
+- 🧱 Followed **Medallion Architecture** (Bronze, Silver, Gold) for modular data handling
+- 🧩 Performed transformations using **Mapping Data Flows** and stored in **Parquet & Delta formats**
+- 📊 Created **Delta tables in Databricks** for querying and visualizing the Gold Layer
+- 🛠 Managed resources using Azure Portal including Linked Services, Datasets, and Triggers
 
 # Architecture 
 <img width="1008" height="557" alt="Flow (1)" src="https://github.com/user-attachments/assets/220affb8-402a-43ef-be5c-a01fbc734e47" />
+
 
 # Resource Group
 <img width="1920" height="842" alt="image" src="https://github.com/user-attachments/assets/7b2d2f9e-a565-4452-88e2-6c12984ae496" />
